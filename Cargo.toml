@@ -1,0 +1,2 @@
+[workspace]
+members = ["chess_client", "chess_core"]

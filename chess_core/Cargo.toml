@@ -1,0 +1,16 @@
+[package]
+name = "chess_core"
+version = "0.1.0"
+authors = ["Gustorn <gustorn@gmail.com>"]
+
+[dependencies]
+stdweb = "0.4.9"
+serde = "1.0.79"
+serde_derive = "1.0.79"
+
+[profile.release]
+opt-level = 's'
+debug = false
+lto = true
+
+

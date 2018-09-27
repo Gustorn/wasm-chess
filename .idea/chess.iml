@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/chess_core/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chess_core/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chess_core/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/chess_core/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/chess_client/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chess_client/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chess_client/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/chess_client/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/chess_client/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chess_core/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
